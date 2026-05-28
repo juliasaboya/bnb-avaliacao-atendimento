@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_application">
+  <sys_app_application action="INSERT_OR_UPDATE">
+    <sys_id>52503d2b3d59496ca8c3184b9dae762f</sys_id>
+    <sys_scope display_value="x_2049102_bnb_av_0">c5c6a54f830143104547fa96feaad34b</sys_scope>
+    <sys_update_name>sys_app_application_52503d2b3d59496ca8c3184b9dae762f</sys_update_name>
+    <active>true</active>
+    <category/>
+    <description>Plataforma de avaliação de atendimento ao cliente do Banco do Nordeste</description>
+    <device_type>browser</device_type>
+    <hint>Sistema de avaliação de atendimento ao cliente</hint>
+    <name/>
+    <order>100</order>
+    <roles/>
+    <title>BNB Avaliação</title>
+  </sys_app_application>
+</record_update>

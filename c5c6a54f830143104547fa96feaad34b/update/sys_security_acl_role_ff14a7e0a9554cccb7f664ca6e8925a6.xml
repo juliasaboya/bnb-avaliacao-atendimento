@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+  <sys_security_acl_role action="INSERT_OR_UPDATE">
+    <sys_id>ff14a7e0a9554cccb7f664ca6e8925a6</sys_id>
+    <sys_scope display_value="x_2049102_bnb_av_0">c5c6a54f830143104547fa96feaad34b</sys_scope>
+    <sys_update_name>sys_security_acl_role_ff14a7e0a9554cccb7f664ca6e8925a6</sys_update_name>
+    <sys_security_acl>fc3a15e42e9d415e901667bdcf7e4459</sys_security_acl>
+    <sys_user_role name="x_2049102_bnb_av_0.admin">d722de9511474f41a04b751f3f961cc1</sys_user_role>
+  </sys_security_acl_role>
+</record_update>

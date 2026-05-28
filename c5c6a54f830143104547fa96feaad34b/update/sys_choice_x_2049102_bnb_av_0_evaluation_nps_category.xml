@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_choice_set field="nps_category" table="x_2049102_bnb_av_0_evaluation">
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>88e7dc5ed68140faaacef0a8fe8de491</sys_id>
+      <name>x_2049102_bnb_av_0_evaluation</name>
+      <element>nps_category</element>
+      <label>Detrator</label>
+      <value>detractor</value>
+      <sequence>0</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>1fb5fd6222304007afe168ad97a2c448</sys_id>
+      <name>x_2049102_bnb_av_0_evaluation</name>
+      <element>nps_category</element>
+      <label>Neutro</label>
+      <value>neutral</value>
+      <sequence>1</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice action="INSERT_OR_UPDATE">
+      <sys_id>20f51897f6ad401d85d856a71664cf44</sys_id>
+      <name>x_2049102_bnb_av_0_evaluation</name>
+      <element>nps_category</element>
+      <label>Promotor</label>
+      <value>promoter</value>
+      <sequence>2</sequence>
+      <inactive>false</inactive>
+      <inactive_on_update>false</inactive_on_update>
+      <language>en</language>
+    </sys_choice>
+    <sys_choice_set action="INSERT_OR_UPDATE">
+      <sys_id>768af938098341608007986af6bf3af4</sys_id>
+      <sys_scope display_value="x_2049102_bnb_av_0">c5c6a54f830143104547fa96feaad34b</sys_scope>
+      <name>x_2049102_bnb_av_0_evaluation</name>
+      <element>nps_category</element>
+    </sys_choice_set>
+  </sys_choice_set>
+</record_update>

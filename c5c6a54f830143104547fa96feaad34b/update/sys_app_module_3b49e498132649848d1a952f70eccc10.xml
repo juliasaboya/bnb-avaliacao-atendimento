@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_module">
+  <sys_app_module action="INSERT_OR_UPDATE">
+    <sys_id>3b49e498132649848d1a952f70eccc10</sys_id>
+    <sys_scope display_value="x_2049102_bnb_av_0">c5c6a54f830143104547fa96feaad34b</sys_scope>
+    <sys_update_name>sys_app_module_3b49e498132649848d1a952f70eccc10</sys_update_name>
+    <active>true</active>
+    <application>52503d2b3d59496ca8c3184b9dae762f</application>
+    <hint>Dashboard de gestão das avaliações</hint>
+    <link_type>DIRECT</link_type>
+    <order>200</order>
+    <query>x_2049102_bnb_av_0_admin.do</query>
+    <roles>x_2049102_bnb_av_0.admin</roles>
+    <title>Painel Administrativo</title>
+  </sys_app_module>
+</record_update>
