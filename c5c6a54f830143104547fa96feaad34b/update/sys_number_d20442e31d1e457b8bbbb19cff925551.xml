@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_2049102_bnb_av_0_evaluation">x_2049102_bnb_av_0_evaluation</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>AVAL</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-28 21:40:35</sys_created_on>
+        <sys_id>d20442e31d1e457b8bbbb19cff925551</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AVAL</sys_name>
+        <sys_package display_value="BNB Avaliação de Atendimento" source="x_2049102_bnb_av_0">c5c6a54f830143104547fa96feaad34b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BNB Avaliação de Atendimento">c5c6a54f830143104547fa96feaad34b</sys_scope>
+        <sys_update_name>sys_number_d20442e31d1e457b8bbbb19cff925551</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-28 21:40:35</sys_updated_on>
+    </sys_number>
+</record_update>

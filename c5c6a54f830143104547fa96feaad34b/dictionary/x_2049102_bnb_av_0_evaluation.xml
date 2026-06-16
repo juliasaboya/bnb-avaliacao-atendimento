@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="1a539e20bfd34fbe81db344bc066a06f" label="Avaliação de Atendimento" max_length="40" name="x_2049102_bnb_av_0_evaluation" type="collection">
+        <element label="Crítica ou Sugestão" max_length="4000" name="comments" type="multi_two_lines"/>
+        <element choice="1" default="none" label="Ação Recomendada" max_length="100" name="recommended_action" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Revisão de Processo" sequence="4" value="process_review"/>
+                <element inactive_on_update="false" label="Treinamento" sequence="3" value="training"/>
+                <element inactive_on_update="false" label="Avaliar Unidade" sequence="1" value="evaluate_unit"/>
+                <element inactive_on_update="false" label="Retorno ao Cliente" sequence="2" value="client_callback"/>
+                <element inactive_on_update="false" label="Nenhuma" sequence="0" value="none"/>
+            </choice>
+        </element>
+        <element display="true" label="Cordialidade e Presteza" mandatory="true" max_length="40" name="star_rating" type="integer"/>
+        <element choice="1" label="Categoria NPS" max_length="40" name="nps_category" read_only="true" read_only_option="instance_configured" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Neutro" sequence="1" value="neutral"/>
+                <element inactive_on_update="false" label="Promotor" sequence="2" value="promoter"/>
+                <element inactive_on_update="false" label="Detrator" sequence="0" value="detractor"/>
+            </choice>
+        </element>
+        <element label="Demanda Atendida" mandatory="true" max_length="40" name="demand_resolved" type="boolean"/>
+        <element label="Nota NPS" mandatory="true" max_length="40" name="nps_score" type="integer"/>
+        <element label="Data da Avaliação" mandatory="true" max_length="40" name="evaluation_date" type="glide_date_time"/>
+    </element>
+</database>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="e2c13b17839903904547fa96feaad3db" sys_domain="global" table="x_2049102_bnb_av_0_evaluation" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>28a0307483ed8b904547fa96feaad3fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>a0a0707483ed8b904547fa96feaad30a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>a4a0707483ed8b904547fa96feaad30b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>e8a0307483ed8b904547fa96feaad3fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>demand_resolved</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>24a0707483ed8b904547fa96feaad30c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>demand_resolved</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>68a0307483ed8b904547fa96feaad3ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>evaluation_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>a0a0707483ed8b904547fa96feaad30d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>evaluation_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>e4a0707483ed8b904547fa96feaad300</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>30a0707483ed8b904547fa96feaad30e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>64a0707483ed8b904547fa96feaad301</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nps_category</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>bca0707483ed8b904547fa96feaad30e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nps_category</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>f0a0707483ed8b904547fa96feaad302</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nps_score</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>3ca0707483ed8b904547fa96feaad30f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nps_score</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>70a0707483ed8b904547fa96feaad303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>b8a0707483ed8b904547fa96feaad310</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>fca0707483ed8b904547fa96feaad303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>recommended_action</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>38a0707483ed8b904547fa96feaad311</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>recommended_action</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>7ca0707483ed8b904547fa96feaad304</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>star_rating</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>78a0707483ed8b904547fa96feaad31e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>star_rating</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:14:25</sys_created_on>
+            <sys_id>b4a0707483ed8b904547fa96feaad312</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>temporary</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-15 14:21:41</sys_created_on>
+            <sys_id>0f42743883ed8b904547fa96feaad357</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2049102_bnb_av_0_evaluation" sys_domain="global" view="Default view">e2c13b17839903904547fa96feaad3db</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-15 14:21:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_2049102_bnb_av_0_evaluation</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-06-11 12:27:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2c13b17839903904547fa96feaad3db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2049102_bnb_av_0_evaluation</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="BNB Avaliação de Atendimento" source="x_2049102_bnb_av_0">c5c6a54f830143104547fa96feaad34b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BNB Avaliação de Atendimento">c5c6a54f830143104547fa96feaad34b</sys_scope>
+            <sys_update_name>sys_ui_section_e2c13b17839903904547fa96feaad3db</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-06-11 12:27:26</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
