@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="recommended_action" table="x_2049102_bnb_av_0_evaluation" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>recommended_action</element>
+            <name>x_2049102_bnb_av_0_evaluation</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-28 21:40:31</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>recommended_action</sys_name>
+            <sys_package display_value="BNB Avaliação de Atendimento" source="x_2049102_bnb_av_0">c5c6a54f830143104547fa96feaad34b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BNB Avaliação de Atendimento">c5c6a54f830143104547fa96feaad34b</sys_scope>
+            <sys_update_name>sys_choice_x_2049102_bnb_av_0_evaluation_recommended_action</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-28 21:40:31</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recommended_action</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nenhuma</label>
+            <language>en</language>
+            <name>x_2049102_bnb_av_0_evaluation</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-29 02:46:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-29 02:46:46</sys_updated_on>
+            <value>none</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recommended_action</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Avaliar Unidade</label>
+            <language>en</language>
+            <name>x_2049102_bnb_av_0_evaluation</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-29 02:46:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-29 02:46:46</sys_updated_on>
+            <value>evaluate_unit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recommended_action</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Retorno ao Cliente</label>
+            <language>en</language>
+            <name>x_2049102_bnb_av_0_evaluation</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-29 02:46:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-29 02:46:46</sys_updated_on>
+            <value>client_callback</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recommended_action</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Treinamento</label>
+            <language>en</language>
+            <name>x_2049102_bnb_av_0_evaluation</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-29 02:46:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-29 02:46:46</sys_updated_on>
+            <value>training</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>recommended_action</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Revisão de Processo</label>
+            <language>en</language>
+            <name>x_2049102_bnb_av_0_evaluation</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-29 02:46:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-29 02:46:46</sys_updated_on>
+            <value>process_review</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

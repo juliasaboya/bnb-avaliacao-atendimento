@@ -1,15 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_module">
-  <sys_app_module action="INSERT_OR_UPDATE">
-    <sys_id>3b49e498132649848d1a952f70eccc10</sys_id>
-    <sys_scope display_value="x_2049102_bnb_av_0">c5c6a54f830143104547fa96feaad34b</sys_scope>
-    <sys_update_name>sys_app_module_3b49e498132649848d1a952f70eccc10</sys_update_name>
-    <active>true</active>
-    <application>52503d2b3d59496ca8c3184b9dae762f</application>
-    <hint>Dashboard de gestão das avaliações</hint>
-    <link_type>DIRECT</link_type>
-    <order>200</order>
-    <query>x_2049102_bnb_av_0_admin.do</query>
-    <roles>x_2049102_bnb_av_0.admin</roles>
-    <title>Painel Administrativo</title>
-  </sys_app_module>
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="BNB Avaliação">52503d2b3d59496ca8c3184b9dae762f</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Dashboard de gestão das avaliações</hint>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title/>
+        <mobile_view_name/>
+        <name/>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>x_2049102_bnb_av_0_admin.do</query>
+        <report/>
+        <require_confirmation>false</require_confirmation>
+        <roles>x_2049102_bnb_av_0.admin</roles>
+        <route/>
+        <screen/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-28 21:40:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3b49e498132649848d1a952f70eccc10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Painel Administrativo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BNB Avaliação de Atendimento" source="x_2049102_bnb_av_0">c5c6a54f830143104547fa96feaad34b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BNB Avaliação de Atendimento">c5c6a54f830143104547fa96feaad34b</sys_scope>
+        <sys_update_name>sys_app_module_3b49e498132649848d1a952f70eccc10</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-28 21:40:31</sys_updated_on>
+        <timeline_page/>
+        <title>Painel Administrativo</title>
+        <uncancelable>false</uncancelable>
+        <ux_list/>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
 </record_update>
